@@ -53,6 +53,9 @@ h1 {
 .pizza-img {
 	padding: 10px;
 	height: 500px;
+	max-width: 70%;
+    height: auto;
+    width: auto\9
 }
 
 #content {
