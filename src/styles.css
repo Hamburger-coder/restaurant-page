@@ -1,23 +1,63 @@
 body {
 	display: flex;
 	background-color: rebeccapurple;
-	justify-content: center;
 	flex-direction: column;
 	align-items: center;
+	height: 100vh;
 }
 
 nav {
+	background-color: 	#252526;
 	display: flex;
+	width: 100vw;
 	padding: 25px;
 	align-items: center;
-	justify-content: center;
+	justify-content: space-evenly;
+}
+
+h1 {
+	text-align: center;
+	font-size: 90px;
+	padding: 15px;
 }
 
 h1, p {
-	color: white;
+	color: rgb(255, 255, 255);
 }
 
 * {
 	margin: 0;
 	padding: 0;
+}
+nav button {
+	padding: 10px;
+	width: 120px;
+	height: 50px;
+	border-radius: 10px;
+	border: none;
+	background-color: #09814A;
+	font-size: 20px;
+}
+
+
+
+h1 {
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.pizza-img {
+	padding: 10px;
+	height: 500px;
+}
+
+#content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
