@@ -25,6 +25,10 @@ h1, p {
 	color: rgb(255, 255, 255);
 }
 
+p {
+	padding: 5px;
+}
+
 * {
 	margin: 0;
 	padding: 0;
