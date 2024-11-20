@@ -1,8 +1,23 @@
-# restaurant-page
-Restaurant page for The Odin Project
+# Sabor del Sol - Restaurant Page
 
-        <h1>Sabor del Sol</h1>
-        <img class="pizza-img" src="https://images.pexels.com/photos/8230019/pexels-photo-8230019.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagen de comida" height="500">
-        <p>Sabor del Sol is open from 11 AM to 10 PM, Monday through Saturday</p>
-        <p>Experience the vibrant flavors of Mexico at Sabor del Sol, where every dish is a celebration of sunshine, tradition, and authentic culinary excellence!</p>
-        
+Welcome to the Sabor del Sol restaurant page, a project developed as part of The Odin Project. This website showcases the vibrant flavors of Mexico, offering a glimpse into the culinary excellence of Sabor del Sol.
+
+## Project Overview
+
+This project is a single-page application that dynamically loads content using JavaScript. It features a home page, a menu page, and an about page, each providing unique insights into the restaurant's offerings and story.
+
+## Features
+
+- **Home Page**: Displays the restaurant's name, an inviting image, and a brief introduction to Sabor del Sol.
+- **Menu Page**: (To be implemented) Will showcase the restaurant's menu items.
+- **About Page**: Provides detailed information about the restaurant's history, mission, and contact details.
+
+## Technologies Used
+
+- **HTML/CSS**: For structuring and styling the web pages.
+- **JavaScript**: For dynamic content loading and interactivity.
+- **Webpack**: For bundling the JavaScript modules.
+- **Webpack Dev Server**: For local development and testing.
+
+## Visit
+To see this website go to https://hamburger-coder.github.io/restaurant-page/
