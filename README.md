@@ -9,7 +9,7 @@ This project is a single-page application that dynamically loads content using J
 ## Features
 
 - **Home Page**: Displays the restaurant's name, an inviting image, and a brief introduction to Sabor del Sol.
-- **Menu Page**: (To be implemented) Will showcase the restaurant's menu items.
+- **Menu Page**: Showcases the restaurant's menu items.
 - **About Page**: Provides detailed information about the restaurant's history, mission, and contact details.
 
 ## Technologies Used
